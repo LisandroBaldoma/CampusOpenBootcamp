@@ -17,8 +17,7 @@ function App() {
          {/*<Ejemplo2></Ejemplo2>*/}
          {/*<MiComponenteConContexto></MiComponenteConContexto>*/}
          {/*<MiComponenteConContexto></MiComponenteConContexto>*/}
-         <Ejemplo4 nombre="Lisandro">
-         
+         <Ejemplo4 nombre="Lisandro">         
           <h3>
             Contenido del props.children
           </h3>
